@@ -1,3 +1,3 @@
-module github.com/ld-2022/lumberjack.v2
+module github.com/ld-2022/lumberjack.ld
 
 go 1.13
